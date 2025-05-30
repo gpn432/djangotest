@@ -10,3 +10,13 @@ git status
 git add .
 git commit -m "change made"
 git log
+
+to display texts in a file
+cat hi.txt
+
+to remove a file 
+rm filename
+ex : rm hi.txt
+
+to attach the url of the repository with thelocal project
+git remote add origin url
