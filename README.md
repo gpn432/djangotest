@@ -26,6 +26,16 @@ to see all urls in the repository
 git remote -v
 
 to push to folder to git
-git push origin main
+git push origin master
+
+toc check which branch i am in 
+git branch
+
+to create a branch
+git branch branhc-name
+
+to enter into a branch
+git checkout branchname
+
 
 
