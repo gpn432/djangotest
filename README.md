@@ -20,3 +20,12 @@ ex : rm hi.txt
 
 to attach the url of the repository with thelocal project
 git remote add origin url
+ex : git remote add origin https://github.com/gpn432/djangotest.git
+
+to see all urls in the repository
+git remote -v
+
+to push to folder to git
+git push origin main
+
+
