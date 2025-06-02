@@ -37,5 +37,22 @@ git branch branhc-name
 to enter into a branch
 git checkout branchname
 
+to clone on ec2 server only use this format 
+git clone git@github.com:gpn432/aroha.git
+
+to remove a folder or file 
+rm -rf foldername
+
+to start with nginx 
+sudo systemctl start nginx
+
+to stop with nginx 
+sudo systemctl stop nginx
+
+to check the status of nginx
+sudo systemctl status nginx
+
+to reload nginx
+sudo systemctl reload nginx
 
 
