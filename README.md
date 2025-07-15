@@ -55,4 +55,11 @@ sudo systemctl status nginx
 to reload nginx
 sudo systemctl reload nginx
 
+To push a code to git for the first time
+git init
+git remote add origin <your-repo-url>
+git remote -v //only to check if its added
+
+
+
 
